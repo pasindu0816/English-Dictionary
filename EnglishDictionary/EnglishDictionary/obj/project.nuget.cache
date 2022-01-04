@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "l5yJ/K6Kc4qZps2nbblyMJfuWuxfzVKcxDyLDEGci/tfPynAWBJjTRuvXaiC1e+Gq9EQKSfpRDm7uxyMiRAdGg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\pasin\\Desktop\\01000562_SD_DS_ASSIGNMENT_English_Dictionary\\EnglishDictionary\\EnglishDictionary\\EnglishDictionary.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\pasin\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
